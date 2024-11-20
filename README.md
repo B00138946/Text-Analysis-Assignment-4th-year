@@ -24,12 +24,11 @@ Walk-through video on Youtube: https://youtu.be/tYUaterfSYg
 
 ## App Images
 
-![Login screen](https://github.com/B00138946/Text-Analysis-Assignment-4th-year/blob/2ffef9546359f5be83df659713732f56d287c813/Text-Analysis-Assignment-4th-year/1.png "Login screen")
-![Main menu ](https://github.com/B00138946/year4-project/blob/0b5dfeb3601d3b6d08b1c7c0ed37ce76528a6097/2.png "Main menu ")
-![Learning screen](https://github.com/B00138946/year4-project/blob/0b5dfeb3601d3b6d08b1c7c0ed37ce76528a6097/3.png "Learning screen")
-![chatbot screen](https://github.com/B00138946/year4-project/blob/0b5dfeb3601d3b6d08b1c7c0ed37ce76528a6097/4.png "chatbot screen")
-![quiz game](https://github.com/B00138946/year4-project/blob/0b5dfeb3601d3b6d08b1c7c0ed37ce76528a6097/5.png "quiz game")
-![awards screen](https://github.com/B00138946/year4-project/blob/0b5dfeb3601d3b6d08b1c7c0ed37ce76528a6097/6.png "awards screen")
+![Count matrix performance](https://github.com/B00138946/Text-Analysis-Assignment-4th-year/blob/2ffef9546359f5be83df659713732f56d287c813/Text-Analysis-Assignment-4th-year/4.png "Count matrix performance")
+![Word clouds ](https://github.com/B00138946/Text-Analysis-Assignment-4th-year/blob/2ffef9546359f5be83df659713732f56d287c813/Text-Analysis-Assignment-4th-year/1.png "Word clouds ")
+![Freq of verb](https://github.com/B00138946/Text-Analysis-Assignment-4th-year/blob/2ffef9546359f5be83df659713732f56d287c813/Text-Analysis-Assignment-4th-year/2.png "Freq of verb")
+![basic cleaning data](https://github.com/B00138946/Text-Analysis-Assignment-4th-year/blob/2ffef9546359f5be83df659713732f56d287c813/Text-Analysis-Assignment-4th-year/3.png "basic cleaning data")
+
 
 
 
